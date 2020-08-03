@@ -36,4 +36,4 @@ padlocked the Repository and are going to give Jenkins the private key to unlock
 
 (**SOURCE** ➜ **Build** ➜ **Test**) = **CI** Integration
 ↓
-(**PRODUCTION**) = **CD** Deployment and Development
+(**PRODUCTION**) = **CD** Delivery and Deployment

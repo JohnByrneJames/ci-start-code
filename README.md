@@ -37,3 +37,7 @@ padlocked the Repository and are going to give Jenkins the private key to unlock
 (**SOURCE** ➜ **Build** ➜ **Test**) = **CI** Integration
 ↓
 (**PRODUCTION**) = **CD** Delivery and Deployment
+
+* (Delivery is automated)
+* (Deployment is manual) unless it is to an existing app that is fully functional or confident developers.
+

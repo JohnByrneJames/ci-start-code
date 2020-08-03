@@ -30,3 +30,10 @@ In this case we just called it our names for testing purposes but it can be good
 
 - Now the secured public key from our local system has been copied to our cloud which is GitHub in this case.
 
+The private key is actually like having a padlocked door, you need the private
+key to get into the public key. This is known as a key-pair. By adding the key into GitHub we have essntially
+padlocked the Repository and are going to give Jenkins the private key to unlock that padlock.
+
+(**SOURCE** ➜ **Build** ➜ **Test**) = **CI** Integration
+↓
+(**PRODUCTION**) = **CD** Deployment and Development
